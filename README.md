@@ -2,8 +2,6 @@
 
 > **AIRGUARD** is an IoT-based air quality monitoring system designed to detect gas and smoke levels while monitoring environmental conditions such as temperature and humidity in real time.
 
-![AIRGUARD Circuit Diagram](images/dashboard.png)
-
 ---
 
 ## 📌 Overview
